@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content=" Movie Hub" />
       </Head>
       <main className="container mx-auto px-4 py-10 flex flex-col items-center">
-        <h1 className="text-4xl font-bold mb-8 text-white" >Movie Hub</h1>
+        <h1 className="text-4xl font-bold mb-8 text-white" >Movie Hub by Satya Prakash</h1>
 
 
       </main>
